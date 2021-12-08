@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/roll_lunch"
+        android:icon="@drawable/food_bank_24"
+        android:title="@string/roll_lunch" />
+
+    <item
+        android:id="@+id/food_info"
+        android:icon="@drawable/information_24"
+        android:title="@string/info_cooks" />
+
+</menu>

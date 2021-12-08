@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinalApplication</string>
+    <string name="roll_lunch">ВЫБОР БЛЮДА</string>
+    <string name="cooks">СТРАНЫ</string>
+    <string name="info_cooks">COOKS</string>
+    <string name="just_see_our_website">Посетите наш сайт</string>
+</resources>
